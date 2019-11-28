@@ -27,12 +27,12 @@
       "url": "prismjs/themes/prism-solarizedlight.css"
     },
     "edit-link": {
-      "base": "https://github.com/qiqihaobenben/Front-End-Basics/edit/master",
+      "base": "https://github.com/heekei/Front-End-Basics/edit/master",
       "label": "Edit This Page"
     },
     "github-buttons": {
       "buttons": [{
-        "user": "qiqihaobenben",
+        "user": "heekei",
         "repo": "Front-End-Basics",
         "type": "star",
         "count": true,
