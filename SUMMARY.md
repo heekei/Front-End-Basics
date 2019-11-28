@@ -34,6 +34,8 @@
 * Node.js
   - 文档
     * [基础介绍](node/index.md)
+  - 工具类
+    * [pkg打包](node/pkg.md)
 * 网络基础
   - HTTP
     * [介绍](network-basics/HTTP/index.md)
