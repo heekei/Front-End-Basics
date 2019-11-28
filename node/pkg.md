@@ -35,7 +35,7 @@ pkg . --out-path=bin/ --targets=node10-linux-x64
 
 打包完成后，会在bin目录下生成一个名为`my_app`的二进制可执行程序，然后为程序设置可执行权限`chmod +x my_app`，接下来便可在linux上直接运行 `./my_app` 了.
 
-注：如果你的程序是node10以下的项目，需要使用试验特效worker_threads，或者是其他v8配置，需要在运行打包的时候，设置node的runtime配置，例如：
+注：如果你的程序是node10以下的项目，需要使用试验特性worker_threads，或者是其他v8配置，需要在运行打包的时候，设置node的runtime配置，例如：
 
 ```
 pkg . --out-path=bin/ --targets=node10-linux-x64 --options experimental-worker
